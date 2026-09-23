@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2d4fc73648df5a8f70e7b14a",
+  "owner": "qh6b3qjke",
+  "repo": "page-0c728ba310c8a2164ff620e1",
+  "title": "袋鼠",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0c728ba310c8a2164ff620e1",
+      "a": "袋鼠",
+      "b": "稳定全球clash加速器",
+      "entity": "袋鼠",
+      "brand": "袋鼠",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "501254406eb2bfd03950c31dfba85600892bca783d5d8ea8ebf923c7ce00d174",
+      "content": {
+        "primary_entity": "袋鼠",
+        "keyword1": "袋鼠",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，参照文档完成订阅配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定版本，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对版本轻松连接",
+          "AI_DESCRIPTION": "，袋鼠面向需要稳定全球加速的用户，提供覆盖主流系统的客户端订阅方式与三档套餐选择。基础版适合轻度使用，旗舰版增加 IPLC 专线游戏优化，团队版面向多设备协作场景。按年付可获更优价格，订阅导入流程简单，依据客户端文档即可完成配置。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期展开。",
+          "AI_FEATURES_TITLE": "袋鼠使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，旗舰版每月 300GB、5 台设备，团队版每月 1000GB、20 台设备，按用量与设备数量匹配。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持全节点原生流媒体解锁与 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点和企业定制路由。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长周期使用可降低单月成本。",
+          "AI_FEATURE_TITLE_1": "套餐规格",
+          "AI_FEATURE_TITLE_2": "加速能力",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三个步骤完成从选择到配置的流程。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "袋鼠提供多版本订阅方案，覆盖日常浏览、流媒体播放与游戏加速等场景。基础版、旗舰版与团队版按流量和设备数量区分，结合客户端文档可快速导入订阅，在主流设备上完成配置。",
+          "AI_HERO_SUBTITLE": "袋鼠让连接更顺畅",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "支持主流客户端订阅",
+          "AI_PLANS_INTRO": "基础版 ¥15/月含 100GB 与 3 台设备，旗舰版 ¥35/月含 300GB 与 5 台设备，团队版 ¥85/月含 1000GB 与 20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数量，在基础版、旗舰版和团队版之间选定合适版本。",
+          "AI_STEP_TEXT_2": "查看所选版本对应设备的系统要求，确认客户端类型与订阅周期后完成订阅。",
+          "AI_STEP_TEXT_3": "参照对应客户端文档导入订阅地址，按说明完成配置即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "袋鼠加速器多端订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。按日常视频、下载与远程办公用量估算，轻度使用选基础版，多设备或高码率需求选旗舰版。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台。同一时间在线的设备数计入限制，换设备时先退出旧客户端再连接新客户端。",
+          "AI_FAQ_ANSWER_3": "在袋鼠客户端内导入订阅链接或配置文件，按客户端文档完成节点选择与连接。不同客户端导入方式略有差异，以对应客户端的配置说明为准。",
+          "AI_FAQ_ANSWER_4": "三家套餐均可按月付费，年付分别约为 150 元、350 元和 850 元。长期使用年付折算下来更划算，短期可先按月体验。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线游戏加速优化与 7x24 优先工单支持，团队版增加 VIP 专属高带宽节点、企业定制路由及专属客户经理，适合多人协作场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "袋鼠三档套餐的流量分别是多少？",
+          "AI_FAQ_QUESTION_2": "套餐可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "如何在客户端导入袋鼠订阅？",
+          "AI_FAQ_QUESTION_4": "按月付费和按年付费怎么选？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版比基础版多了什么？",
+          "AI_FAQ_TITLE": "袋鼠套餐常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xjmsplm.cn",
+    "host": "xjmsplm.cn"
+  },
+  "file_hashes": {
+    "index.html": "4c8f42a48b88fb2ef4134af50fc612fbb1b0b8f4c5cfcf6da6e6f66d8a93c2e3",
+    "sitemap.xml": "f4086861f3664f7af16a9502f7ed357f84c7499fe10b1f2b532c96f129f30a10",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d5922c5313f0cacea8e1efc4a6802f631fd744b0ff47ff6ab621419ccea12380",
+    "robots.txt": "6a5f0d09ebc0d07a36146dd66ee5ac117ca08f5173ee292261190ad9017fda99",
+    "11b1f56ad536377b22fa013e6313d28a.txt": "226541ce88947c3880caf716a235f8ba8f9c9823c481da1ca9d749d8ab89b153"
+  },
+  "revision": "aa6955b491e9d7aace4bdab37a9ec7885a60196db47a8126ce7dab6af68411a7"
+}
